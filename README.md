@@ -7,4 +7,7 @@
 * .gitignore file to indicate which one is uploaded
 * The README.md file to show the homepage homepage of this repo
 
+## Screenshots for DDT/TDD/JUnit
+![DDT-TDD-JUnit code](https://github.com/chinhtc98/math-util/blob/241b517acea36b7136c24e776dbd89aef9a0e097/screenshots/DDT-TDD-JUnit.png)
+
 #### © 2022 ChinhTruong
