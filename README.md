@@ -1,3 +1,4 @@
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2022 by ChinhTruong](https://github.com/chinhtc98/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/chinhtc98/math-util/actions/workflows/mathutil-ci.yml)
 # Welcome to Math Utility Repository
 ## You will find in this repo the library to support some math operations, e.g. compute the factorual,...
 
