@@ -12,7 +12,7 @@ package com.chinhtc.mathutil.core;
 public class MathUtil {
     
     public static long getFactorial(int n){
-        long product = 1;
+        long product = 1; 
         
         if (n > 20 || n < 0) 
             throw new IllegalArgumentException("n must be between 0..20");
